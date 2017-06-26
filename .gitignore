@@ -6,6 +6,7 @@
 # Folders
 _obj
 _test
+.idea
 
 # Architecture specific extensions/prefixes
 *.[568vq]
@@ -23,3 +24,8 @@ _testmain.go
 .DS_Store
 the-way-to-go.sublime-project
 the-way-to-go.sublime-workspace
+
+*.pdf
+
+*.html
+*.htm

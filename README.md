@@ -9,7 +9,7 @@
 
 ## 翻译进度
 
-11.9 [空接口](eBook/11.9.md)
+14.9 [实现 Futures 模式](eBook/14.9.md)
 
 ## 支持本书
 
@@ -35,6 +35,9 @@
 	- [@spawnris](https://github.com/spawnris)
 	- [@domainname](https://github.com/domainname)
 	- [@leisore](https://github.com/leisore)
+	- [@dake](https://github.com/dake)
+	- [@glight2000](https://github.com/glight2000)
+	- [@songleo](https://github.com/songleo)
 
 ## 授权许可
 
